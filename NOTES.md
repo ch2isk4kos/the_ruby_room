@@ -6,4 +6,12 @@
 
 3. configured welcome#index in routes.rb
 
-4. 
+4. add Devise && Boostrap-Sass to Gemfile
+
+5. $ bundle install
+
+6. configure Bootrap-Sass
+
+7. configure Devise
+
+8. 
